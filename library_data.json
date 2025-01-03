@@ -1,0 +1,41 @@
+{
+    "books": [
+        {
+            "title": "To Kill a Mockingbird",
+            "author": "Harper Lee",
+            "availability": true
+        },
+        {
+            "title": "Fight Club",
+            "author": "Chuck Palahniuk",
+            "availability": true
+        },
+        {
+            "title": "Private Parts",
+            "author": "Howard Stern",
+            "availability": true
+        },
+        {
+            "title": "Ready Player One",
+            "author": "Ernest Cline",
+            "availability": true
+        },
+        {
+            "title": "IT",
+            "author": "Stephen King",
+            "availability": true
+        }
+    ],
+    "users": [
+        {
+            "name": "Joe Lee",
+            "user_id": "15",
+            "borrowed_books": []
+        },
+        {
+            "name": "Hannibal Lecter",
+            "user_id": "10",
+            "borrowed_books": []
+        }
+    ]
+}
