@@ -24,6 +24,16 @@
             "title": "IT",
             "author": "Stephen King",
             "availability": true
+        },
+        {
+            "title": "The Shining",
+            "author": "Stephen King",
+            "availability": true
+        },
+        {
+            "title": "Doctor Sleep",
+            "author": "Stephen King",
+            "availability": true
         }
     ],
     "users": [
@@ -35,6 +45,16 @@
         {
             "name": "Hannibal Lecter",
             "user_id": "10",
+            "borrowed_books": []
+        },
+        {
+            "name": "John Smith",
+            "user_id": "12",
+            "borrowed_books": []
+        },
+        {
+            "name": "Robert Smith",
+            "user_id": "5",
             "borrowed_books": []
         }
     ]
